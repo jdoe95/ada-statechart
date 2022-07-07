@@ -1,0 +1,12 @@
+# emacs backup files
+*~
+
+# build directory
+build/*
+
+# executables
+main
+
+# other files
+statechart.gpr
+statechart_test/*
